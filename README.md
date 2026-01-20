@@ -14,7 +14,7 @@ The project ensures authenticity and immutability of barangay-issued documents b
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 - **Frontend:** React.js  
 - **Backend:** Node.js / Express  
 - **Database:** MYsql
